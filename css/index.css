@@ -31,7 +31,10 @@ a {
 }
 .logo a{
     font-size: 30px;
+<<<<<<< HEAD
     color: #795c41;
+=======
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 #nav{
     position: fixed;
@@ -50,7 +53,13 @@ a {
 }
 #nav li > a{
     font-size: 20px;
+<<<<<<< HEAD
     color: #795c41;
+=======
+}
+#nav > ul > li.on a {
+    color: #fff;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 #nav > ul > li > a:hover{
     color: #fff;
@@ -108,8 +117,13 @@ a {
 }
 .group_a > p{
     font-size: 25px;
+<<<<<<< HEAD
     margin-top: 20px;
     line-height: 37px;
+=======
+    margin-top: 30px;
+    line-height: 40px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
     font-weight: 700;
 }
 /* 회전도형 */
@@ -162,7 +176,11 @@ a {
 /* 컨텐츠 */
 #contents{
     width: 100%;
+<<<<<<< HEAD
     height: 3300px;
+=======
+    height: 3900px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 #about{
     width: 100%;
@@ -194,7 +212,11 @@ a {
 .year li{
     list-style: disc;
     font-size: 17px;
+<<<<<<< HEAD
     line-height: 4.2vh;
+=======
+    line-height: 5vh;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 .year li::marker{
     color: #C7AB90;
@@ -207,7 +229,11 @@ a {
 .career li{
     list-style: disc;
     font-size: 17px;
+<<<<<<< HEAD
     line-height: 4.2vh;
+=======
+    line-height: 5vh;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 .career li::marker{
     color: #C7AB90;
@@ -219,7 +245,11 @@ a {
 .cert li{
     list-style: disc;
     font-size: 17px;
+<<<<<<< HEAD
     line-height: 4.2vh;
+=======
+    line-height: 5vh;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 .cert li::marker{
     color: #C7AB90;
@@ -257,8 +287,13 @@ a {
 }
 .html > ul > li p{
     display: inline-block;
+<<<<<<< HEAD
     font-size: 18px;
     line-height: 30px;
+=======
+    font-size: 20px;
+    line-height: 35px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 
 .css{
@@ -274,8 +309,13 @@ a {
 }
 .css > ul > li p{
     display: inline-block;
+<<<<<<< HEAD
     font-size: 18px;
     line-height: 30px;
+=======
+    font-size: 20px;
+    line-height: 35px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 
 .javascript{
@@ -291,8 +331,13 @@ a {
 }
 .javascript > ul > li p{
     display: inline-block;
+<<<<<<< HEAD
     font-size: 18px;
     line-height: 30px;
+=======
+    font-size: 20px;
+    line-height: 35px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 
 .design > h2{
@@ -305,13 +350,22 @@ a {
 }
 .design > ul > li p{
     display: inline-block;
+<<<<<<< HEAD
     font-size: 18px;
     line-height: 30px;
+=======
+    font-size: 20px;
+    line-height: 35px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 
 #folio{
     width: 100%;
+<<<<<<< HEAD
     height: 2400px;
+=======
+    height: 3000px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 #folio > h2{
     padding-top: 70px;
@@ -322,6 +376,7 @@ a {
 /* 포트폴리오 사이트 */
 .group_1{
     margin: 0 auto;
+<<<<<<< HEAD
     width: 1100px;
     height: 720px;
     display: flex;
@@ -331,12 +386,16 @@ a {
 .l_img {
     margin-right: 80px;
     width: 650px;
+=======
+    width: 100%;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
     height: 720px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .l_img img{
+<<<<<<< HEAD
     width: 550px;
     height: 450px;
 }
@@ -346,6 +405,13 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+=======
+    width: 700px;
+    height: 550px;
+}
+.r_txt{
+    margin-right: 170px;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 }
 .one_title li{
     font-size: 18px;
@@ -364,6 +430,7 @@ a {
 .one_title p{
     display: inline-block;
     font-size: 50px;
+<<<<<<< HEAD
     color: orange;
     margin-right: 20px;
 }
@@ -373,6 +440,16 @@ a {
 }
 
 /* 야놀자 페이지 */
+=======
+    color: red;
+    margin-right: 20px;
+}
+.one_title li:last-child{
+    margin: 30px 70px;
+}
+
+/* 웹젠 랜딩 페이지 */
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 .group_2{
     margin: 0 auto;
     width: 1100px;
@@ -381,7 +458,11 @@ a {
     justify-content: center;
     align-items: center;
 }
+<<<<<<< HEAD
 .l_yanolja_txt{
+=======
+.r_webzen_txt{
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
     width: 1000px;
     height: 720px;
     display: flex;
@@ -407,13 +488,43 @@ a {
 .two_title p{
     display: inline-block;
     font-size: 50px;
+<<<<<<< HEAD
     color: orange;
+=======
+    color: red;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
     margin-right: 20px;
 }
 .two_title li:last-child{
     margin: 30px 70px;
 }
+<<<<<<< HEAD
 .r_yanolja_img{
+=======
+.webzen_img{
+    width: 650px;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.webzen_img img{
+    width: 500px;
+    height: 500px;
+}
+
+
+/* 야놀자 사이트 */
+.group_3{
+    margin: 0 auto;
+    width: 1100px;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.r_yanolja_img {
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
     width: 650px;
     height: 720px;
     display: flex;
@@ -424,6 +535,7 @@ a {
     width: 550px;
     height: 450px;
 }
+<<<<<<< HEAD
 
 
 /* 아디다스 사이트 */
@@ -448,6 +560,10 @@ a {
     height: 450px;
 }
 .r_adidas_txt{
+=======
+.l_yanolja_txt{
+    /* margin-right: 150px; */
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
     width: 1000px;
     height: 720px;
     display: flex;
@@ -471,7 +587,11 @@ a {
 .thr_title p{
     display: inline-block;
     font-size: 50px;
+<<<<<<< HEAD
     color: orange;
+=======
+    color: red;
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
     margin-right: 20px;
 }
 .thr_title li:last-child{
@@ -479,6 +599,53 @@ a {
     margin-left: 40px;
 }
 
+<<<<<<< HEAD
+=======
+/* 아디다스 사이트 */
+.group_4{
+    margin: 0 auto;
+    width: 1200px;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.l_adidas_img img{
+    width: 550px;
+    height: 450px;
+}
+.r_adidas_txt{
+    width: 600px;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.four_title li{
+    font-size: 18px;
+    line-height: 35px;
+}
+.four_title li:first-child{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.four_title li:nth-child(4){
+    margin-bottom: 30px;
+}
+.four_title li:nth-child(5){
+    margin-bottom: 10px;
+}
+.four_title p{
+    display: inline-block;
+    font-size: 50px;
+    color: red;
+    margin-right: 20px;
+}
+.four_title li:last-child{
+    margin: 30px 70px;
+}
+
+>>>>>>> 4dbfb777a8633eca6bca661307f87d2695dbad16
 /* 상세페이지 및 깃허브 버튼 */
 button,
 button::after {
